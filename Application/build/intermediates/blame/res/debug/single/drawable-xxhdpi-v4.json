@@ -120,10 +120,6 @@
         "source": "C:\\workspace\\android-BasicGestureDetect\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_36dp.png"
     },
     {
-        "merged": "C:\\workspace\\android-BasicGestureDetect\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
-        "source": "C:\\workspace\\android-BasicGestureDetect\\Application\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
-    },
-    {
         "merged": "C:\\workspace\\android-BasicGestureDetect\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
         "source": "C:\\workspace\\android-BasicGestureDetect\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
     },

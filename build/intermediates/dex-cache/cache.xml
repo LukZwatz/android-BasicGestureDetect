@@ -2,85 +2,112 @@
 <items version="2" >
 
     <item
-        is-multidex="false"
-        jar="C:\workspace\android-BasicGestureDetect\Application\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
-        <dex dex="C:\workspace\android-BasicGestureDetect\Application\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.1.1_ba30aeb2c6519839d59737e941c8a0732f60f7f7.jar" />
-    </item>
-    <item
-        is-multidex="false"
+        is-multidex="true"
         jar="C:\workspace\android-BasicGestureDetect\Application\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
-        jumboMode="false"
+        jumboMode="true"
         optimize="true"
-        revision="24.0.3"
+        revision="24.0.1"
         sha1="6d7d803871e3203465f71a163e7af104f807b446">
-        <dex dex="C:\workspace\android-BasicGestureDetect\Application\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.1.1_5cff17033073d4523615d5c039889639ab052062.jar" />
+        <dex dex="C:\workspace\android-BasicGestureDetect\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.1.1_5cff17033073d4523615d5c039889639ab052062\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\workspace\android-BasicGestureDetect\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.1.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="4add8aa95c9f4e9a2ad64b7e2bf08e97e28955c1">
-        <dex dex="C:\workspace\android-BasicGestureDetect\Application\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-24.1.1_54bb592260533f1455325c73daddf6f28ed2715e.jar" />
-    </item>
-    <item
-        is-multidex="false"
+        is-multidex="true"
         jar="C:\workspace\android-BasicGestureDetect\Application\build\intermediates\exploded-aar\com.android.support\support-v13\24.1.1\jars\libs\internal_impl-24.1.1.jar"
-        jumboMode="false"
+        jumboMode="true"
         optimize="true"
-        revision="24.0.3"
+        revision="24.0.1"
         sha1="ca74722504f90166103d01edcdfdb93192eb1cba">
-        <dex dex="C:\workspace\android-BasicGestureDetect\Application\build\intermediates\pre-dexed\debug\internal_impl-24.1.1_0f8826ce7de1fd5ebe933acbcda8abcd9fb46cda.jar" />
+        <dex dex="C:\workspace\android-BasicGestureDetect\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_0f8826ce7de1fd5ebe933acbcda8abcd9fb46cda\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\Lukas\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="C:\workspace\android-BasicGestureDetect\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
         optimize="true"
-        revision="24.0.3"
-        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
-        <dex dex="C:\workspace\android-BasicGestureDetect\Application\build\intermediates\pre-dexed\debug\support-annotations-24.1.1_80c01c705d87f3dd38c9f044ddcbfa6ae3e2e192.jar" />
+        revision="24.0.1"
+        sha1="dbf08d085420af03003fa246f129b47d00360dbb">
+        <dex dex="C:\workspace\android-BasicGestureDetect\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_44091a12b0129b4df16f9cd3adbcce7c63d7516a\classes.dex" />
     </item>
     <item
-        is-multidex="false"
+        is-multidex="true"
         jar="C:\workspace\android-BasicGestureDetect\Application\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
-        jumboMode="false"
+        jumboMode="true"
         optimize="true"
-        revision="24.0.3"
+        revision="24.0.1"
         sha1="f62e763609f65e47dc6c498760a4accf02776788">
-        <dex dex="C:\workspace\android-BasicGestureDetect\Application\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.1.1_b2d4118e23be50220a2e86665404944d39605466.jar" />
+        <dex dex="C:\workspace\android-BasicGestureDetect\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.1.1_b2d4118e23be50220a2e86665404944d39605466\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\workspace\android-BasicGestureDetect\Application\build\intermediates\exploded-aar\com.android.support\support-v13\24.1.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="327f68d58bb39fb8b585150596b313541f8fdb87">
-        <dex dex="C:\workspace\android-BasicGestureDetect\Application\build\intermediates\pre-dexed\debug\com.android.support-support-v13-24.1.1_4803ae4b3a781e5ceb0c7e7823a680f4270e42ad.jar" />
-    </item>
-    <item
-        is-multidex="false"
+        is-multidex="true"
         jar="C:\workspace\android-BasicGestureDetect\Application\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
-        jumboMode="false"
+        jumboMode="true"
         optimize="true"
-        revision="24.0.3"
+        revision="24.0.1"
         sha1="1256c10604bb098490eab070d76754ac5ceab35c">
-        <dex dex="C:\workspace\android-BasicGestureDetect\Application\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.1.1_0c52301eb7e70f039c8f3178e10121797c1cc29e.jar" />
+        <dex dex="C:\workspace\android-BasicGestureDetect\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.1.1_0c52301eb7e70f039c8f3178e10121797c1cc29e\classes.dex" />
     </item>
     <item
-        is-multidex="false"
+        is-multidex="true"
         jar="C:\workspace\android-BasicGestureDetect\Application\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
-        jumboMode="false"
+        jumboMode="true"
         optimize="true"
-        revision="24.0.3"
+        revision="24.0.1"
         sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
-        <dex dex="C:\workspace\android-BasicGestureDetect\Application\build\intermediates\pre-dexed\debug\internal_impl-24.1.1_8e2ed9afaee846f27a623e6cbc0a89406be344be.jar" />
+        <dex dex="C:\workspace\android-BasicGestureDetect\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_8e2ed9afaee846f27a623e6cbc0a89406be344be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lukas\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.11.7\f75e7acabd57b213d6f61483240286c07213ec0e\scala-library-2.11.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f75e7acabd57b213d6f61483240286c07213ec0e">
+        <dex dex="C:\workspace\android-BasicGestureDetect\Application\build\intermediates\transforms\dex\debug\folders\1000\10\scala-library-2.11.7_5db81aa179990ddb62b0e4cbec5ecc3c5ea45e1a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lukas\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="C:\workspace\android-BasicGestureDetect\Application\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.1.1_80c01c705d87f3dd38c9f044ddcbfa6ae3e2e192\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\workspace\android-BasicGestureDetect\Application\build\intermediates\exploded-aar\com.android.support\support-v13\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="327f68d58bb39fb8b585150596b313541f8fdb87">
+        <dex dex="C:\workspace\android-BasicGestureDetect\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v13-24.1.1_4803ae4b3a781e5ceb0c7e7823a680f4270e42ad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\workspace\android-BasicGestureDetect\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4add8aa95c9f4e9a2ad64b7e2bf08e97e28955c1">
+        <dex dex="C:\workspace\android-BasicGestureDetect\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-24.1.1_54bb592260533f1455325c73daddf6f28ed2715e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\workspace\android-BasicGestureDetect\Application\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="C:\workspace\android-BasicGestureDetect\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.1.1_ba30aeb2c6519839d59737e941c8a0732f60f7f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\workspace\android-BasicGestureDetect\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3d940d3587c1dd8dbc9c3d88c05ec109e97c2053">
+        <dex dex="C:\workspace\android-BasicGestureDetect\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_ed7dc6890a59022ec59ee990668ad2969effca4a\classes.dex" />
     </item>
 
 </items>

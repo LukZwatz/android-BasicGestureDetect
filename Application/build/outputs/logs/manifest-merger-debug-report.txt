@@ -16,11 +16,11 @@ ADDED from C:\workspace\android-BasicGestureDetect\Application\src\main\AndroidM
 application
 ADDED from C:\workspace\android-BasicGestureDetect\Application\src\main\AndroidManifest.xml:27:5-40:19
 MERGED from [com.android.support:support-v13:24.1.1] C:\workspace\android-BasicGestureDetect\Application\build\intermediates\exploded-aar\com.android.support\support-v13\24.1.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.1.1] C:\workspace\android-BasicGestureDetect\Application\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:cardview-v7:24.1.1] C:\workspace\android-BasicGestureDetect\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.1.1\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:appcompat-v7:24.1.1] C:\workspace\android-BasicGestureDetect\Application\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:animated-vector-drawable:24.1.1] C:\workspace\android-BasicGestureDetect\Application\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-vector-drawable:24.1.1] C:\workspace\android-BasicGestureDetect\Application\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\AndroidManifest.xml:23:5-20
-MERGED from [com.android.support:support-v4:24.1.1] C:\workspace\android-BasicGestureDetect\Application\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\AndroidManifest.xml:25:5-20
 	android:label
 		ADDED from C:\workspace\android-BasicGestureDetect\Application\src\main\AndroidManifest.xml:28:9-41
 	android:allowBackup
@@ -50,11 +50,11 @@ ADDED from C:\workspace\android-BasicGestureDetect\Application\src\main\AndroidM
 uses-sdk
 INJECTED from C:\workspace\android-BasicGestureDetect\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:support-v13:24.1.1] C:\workspace\android-BasicGestureDetect\Application\build\intermediates\exploded-aar\com.android.support\support-v13\24.1.1\AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:support-v4:24.1.1] C:\workspace\android-BasicGestureDetect\Application\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\AndroidManifest.xml:21:5-23:54
 MERGED from [com.android.support:cardview-v7:24.1.1] C:\workspace\android-BasicGestureDetect\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.1.1\AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:appcompat-v7:24.1.1] C:\workspace\android-BasicGestureDetect\Application\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support:animated-vector-drawable:24.1.1] C:\workspace\android-BasicGestureDetect\Application\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:24.1.1] C:\workspace\android-BasicGestureDetect\Application\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\AndroidManifest.xml:21:5-43
-MERGED from [com.android.support:support-v4:24.1.1] C:\workspace\android-BasicGestureDetect\Application\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\AndroidManifest.xml:21:5-23:54
 	tools:overrideLibrary
 		ADDED from [com.android.support:support-v13:24.1.1] C:\workspace\android-BasicGestureDetect\Application\build\intermediates\exploded-aar\com.android.support\support-v13\24.1.1\AndroidManifest.xml:23:9-52
 	android:targetSdkVersion
